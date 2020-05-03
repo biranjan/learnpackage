@@ -1,3 +1,3 @@
-module github.com/biranjan/learnpackage
+module gihub.com/biranjan/learnpackage
 
 go 1.14
